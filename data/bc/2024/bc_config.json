@@ -19,7 +19,8 @@
             "color": "#E95E30", 
             "leader": "David Eby", 
             "headshot": "no_headshot.jpg", 
-            "textColor": "white"
+            "textColor": "white", 
+            "logo": "bc_ndp.png"
         }, 
         {
             "name": "BC CON", 
@@ -27,7 +28,8 @@
             "color": "#05025D",
             "leader": "John Rustad", 
             "headshot": "no_headshot.jpg",
-            "textColor": "white"
+            "textColor": "white", 
+            "logo": "bc_con.png"
         }, 
         {
             "name": "BC BCU", 
@@ -35,7 +37,8 @@
             "color": "#004AAD",
             "leader": "",
             "headshot": "",
-            "textColor": "white"
+            "textColor": "white", 
+            "logo": ""
         }, 
         {
             "name": "BC LIB", 
@@ -43,7 +46,8 @@
             "color": "#d51515",
             "leader": "",
             "headshot": "",
-            "textColor": "white"
+            "textColor": "white", 
+            "logo": ""
         }, 
         {
             "name": "BC GRN", 
@@ -51,7 +55,8 @@
             "color": "#009A44",
             "leader": "Sonia Furstenau",
             "headshot": "no_headshot.jpg",
-            "textColor": "white"
+            "textColor": "white", 
+            "logo": "bc_grn.png"
         }, 
         {
             "name": "Other", 
@@ -59,7 +64,8 @@
             "color": "#8F8F8F",
             "leader": "",
             "headshot": "",
-            "textColor": "white"
+            "textColor": "white", 
+            "logo":""   
         }
     ]
 }
