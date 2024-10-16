@@ -10,6 +10,7 @@
     "majority": 47, 
     "majorityPrev": 44,  
     "timer": 30000,
+    "fullCoverageURL": "https://citynews.ca",
     "currentGeo": "bc_topo.json", 
     "pastGeo": "bc_topo_2020.json",
     "parties": [
@@ -20,7 +21,8 @@
             "leader": "David Eby", 
             "headshot": "EBY_David_NDP.png", 
             "textColor": "white", 
-            "logo": "bc_ndp.png"
+            "logo": "bc_ndp.png", 
+            "main": true
         }, 
         {
             "name": "BC CON", 
@@ -29,7 +31,8 @@
             "leader": "John Rustad", 
             "headshot": "RUSTAD_John_CON.png",
             "textColor": "white", 
-            "logo": "bc_con.png"
+            "logo": "bc_con.png",
+            "main": true
         }, 
         {
             "name": "BC BCU", 
@@ -38,7 +41,8 @@
             "leader": "",
             "headshot": "",
             "textColor": "white", 
-            "logo": ""
+            "logo": "", 
+            "main": false
         }, 
         {
             "name": "BC LIB", 
@@ -47,7 +51,8 @@
             "leader": "",
             "headshot": "",
             "textColor": "white", 
-            "logo": ""
+            "logo": "", 
+            "main": false
         }, 
         {
             "name": "BC GRN", 
@@ -56,7 +61,8 @@
             "leader": "Sonia Furstenau",
             "headshot": "FURSTENAU_Sonia_GRN.png",
             "textColor": "white", 
-            "logo": "bc_grn.png"
+            "logo": "bc_grn.png", 
+            "main": true
         }, 
         {
             "name": "Other", 
@@ -65,7 +71,8 @@
             "leader": "",
             "headshot": "",
             "textColor": "white", 
-            "logo":""   
+            "logo":"", 
+            "main": false
         }
     ]
 }
