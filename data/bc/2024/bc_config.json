@@ -18,7 +18,7 @@
             "nameShort" : "NDP",
             "color": "#E95E30", 
             "leader": "David Eby", 
-            "headshot": "no_headshot.jpg", 
+            "headshot": "EBY_David_NDP.png", 
             "textColor": "white", 
             "logo": "bc_ndp.png"
         }, 
@@ -27,7 +27,7 @@
             "nameShort" : "CON",
             "color": "#05025D",
             "leader": "John Rustad", 
-            "headshot": "no_headshot.jpg",
+            "headshot": "RUSTAD_John_CON.png",
             "textColor": "white", 
             "logo": "bc_con.png"
         }, 
@@ -54,7 +54,7 @@
             "nameShort" : "GRN",
             "color": "#009A44",
             "leader": "Sonia Furstenau",
-            "headshot": "no_headshot.jpg",
+            "headshot": "FURSTENAU_Sonia_GRN.png",
             "textColor": "white", 
             "logo": "bc_grn.png"
         }, 
