@@ -3,8 +3,11 @@
     "year": 2024,
     "prevYear": 2020, 
     "bounds": [[60.083, -113.7342],[48.1494, -139.1066]],
-    "hideContest": ["2020 British Columbia"],
-    "partyResults": "2020 British Columbia",
+    "hideContest": ["2020 British Columbia", "2024-10-19 British Columbia Federal Election"],
+    "partyResults": {
+        "prev": "2020 British Columbia",
+        "current": "2024-10-19 British Columbia Federal Election"
+    },
     "seats": 93,
     "seatsPrev": 87,
     "majority": 47, 
