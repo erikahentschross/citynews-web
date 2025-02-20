@@ -1,0 +1,75 @@
+{
+    "title": "ElectionON",
+    "year": 2025,
+    "prevYear": 2022, 
+    "bounds": [[57.06463, -73.96024], [41.40977, -95.62361]],
+    "hideContest": ["2025 Ontario General Election", "Ontario"],
+    "partyResults": {
+        "current": "2025 Ontario General Election",
+        "prev": "Ontario"
+    },
+    "seats": 93,
+    "seatsPrev": 87,
+    "majority": 47, 
+    "majorityPrev": 44,  
+    "timer": 30000,
+    "fullCoverageURL": "https://vancouver.citynews.ca/british-columbia-provincial-election-2024/",
+    "currentGeo": "on_topo.json", 
+    "pastGeo": "on_topo.json",
+    "parties": [
+        {
+            "name": "PC Party of Ontario",
+            "nameShort": "PC",
+            "leader": "Doug Ford", 
+            "headshot": "",
+            "color": "#0000FF",
+            "textColor": "white",
+            "logo": "", 
+            "main": true
+    
+          }, 
+          {
+            "name": "NDP",
+            "nameShort": "NDP",
+            "leader": "Marit Stiles", 
+            "headshot": "", 
+            "color": "#FF6633",
+            "textColor": "white",
+            "logo": "",
+            "main": true
+    
+          },
+          {
+            "name": "Liberal",
+            "nameShort": "LIB",
+            "leader": "Bonnie Crombie", 
+            "headshot": "", 
+            "color": "#C00000",
+            "textColor": "white",
+            "logo": "",
+            "main": true
+    
+          },
+          {
+            "name": "Green",
+            "nameShort": "GRN",
+            "leader": "Mike Schreiner", 
+            "headshot": "", 
+            "color": "#00B050",
+            "textColor": "white",
+            "logo": "",
+            "main": true
+    
+          }, 
+          {
+              "name": "Other", 
+              "nameShort": "OTH", 
+              "color": "#C0C0C0", 
+              "textColor": "#231F20", 
+              "partyLeader": "",
+              "imgName": "",
+              "logo": "",
+              "main": true
+          }
+    ]
+}

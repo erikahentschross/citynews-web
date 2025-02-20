@@ -1,5 +1,5 @@
 {
-    "title": "British Columbia 2024",
+    "title": "ElectionBC",
     "year": 2024,
     "prevYear": 2020, 
     "bounds": [[60.083, -113.7342],[48.1494, -139.1066]],
@@ -13,7 +13,7 @@
     "majority": 47, 
     "majorityPrev": 44,  
     "timer": 30000,
-    "fullCoverageURL": "https://citynews.ca",
+    "fullCoverageURL": "https://vancouver.citynews.ca/british-columbia-provincial-election-2024/",
     "currentGeo": "bc_topo.json", 
     "pastGeo": "bc_topo_2020.json",
     "parties": [
@@ -29,7 +29,7 @@
         }, 
         {
             "name": "BC CON", 
-            "nameShort" : "CON",
+            "nameShort": "CON",
             "color": "#05025D",
             "leader": "John Rustad", 
             "headshot": "RUSTAD_John_CON.png",
