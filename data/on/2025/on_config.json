@@ -65,7 +65,7 @@
           "name": "Independent", 
           "nameShort": "IND", 
           "color": "#8F8F8F", 
-          "textColor": "#231F20", 
+          "textColor": "white", 
           "partyLeader": "",
           "imgName": "",
           "logo": "",
