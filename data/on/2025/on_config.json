@@ -3,9 +3,9 @@
     "year": 2025,
     "prevYear": 2022, 
     "bounds": [[57.06463, -73.96024], [41.40977, -95.62361]],
-    "hideContest": ["2025 Ontario General Election", "Ontario"],
+    "hideContest": ["2025 Ontario General Election (PBP)", "Ontario"],
     "partyResults": {
-        "current": "2025 Ontario General Election",
+        "current": "2025 Ontario General Election (PBP)",
         "prev": "Ontario"
     },
     "seats": 93,
@@ -21,10 +21,10 @@
           "name": "PC Party of Ontario",
           "nameShort": "PC",
           "leader": "Doug Ford", 
-          "headshot": "",
+          "headshot": "FORD_Doug_.png",
           "color": "#003566",
           "textColor": "white",
-          "logo": "", 
+          "logo": "PC.png", 
           "main": true
   
         }, 
@@ -32,10 +32,10 @@
           "name": "NDP",
           "nameShort": "NDP",
           "leader": "Marit Stiles", 
-          "headshot": "", 
+          "headshot": "STILES_Marit_.png", 
           "color": "#FA6400",
           "textColor": "white",
-          "logo": "",
+          "logo": "NDP.png",
           "main": true
   
         },
@@ -43,10 +43,10 @@
           "name": "Liberal",
           "nameShort": "LIB",
           "leader": "Bonnie Crombie", 
-          "headshot": "", 
+          "headshot": "CROMBIE_Bonnie_.png", 
           "color": "#E81E25",
           "textColor": "white",
-          "logo": "",
+          "logo": "LIB.png",
           "main": true
   
         },
@@ -54,10 +54,10 @@
           "name": "Green",
           "nameShort": "GRN",
           "leader": "Mike Schreiner", 
-          "headshot": "", 
+          "headshot": "SCHREINER_Mike_.png", 
           "color": "#2F772F",
           "textColor": "white",
-          "logo": "",
+          "logo": "GRN.png",
           "main": true
   
         }, 
@@ -68,7 +68,7 @@
           "textColor": "white", 
           "partyLeader": "",
           "imgName": "",
-          "logo": "",
+          "logo": "IND.png",
           "main": true
       },
       {
