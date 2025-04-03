@@ -1,0 +1,90 @@
+{
+    "title": "Federal Election 2025",
+    "year": 2025,
+    "bounds": [[70.794, -49.989], [41.4439, -141.589]],
+    "hideContest": ["2025 Federal General Election"],
+    "partyResults": {
+        "current": "2025 Federal General Election"
+    },
+    "seats": 343,
+    "majority": 172, 
+    "timer": 30000,
+    "fullCoverageURL": "https://toronto.citynews.ca/topic/ontario-election/",
+    "currentGeo": "fed_topo.json", 
+    "pastGeo": "fed_topo.json",
+    "parties": [
+      {
+          "name": "",
+          "nameShort": "PC",
+          "leader": "Pierre Poilievre", 
+          "headshot": "no_headshot_cropped.png",
+          "color": "#003566",
+          "textColor": "white",
+          "logo": "", 
+          "main": true
+  
+        }, 
+        {
+          "name": "NDP",
+          "nameShort": "NDP",
+          "leader": "Jagmeet Singh", 
+          "headshot": "no_headshot_cropped.png", 
+          "color": "#FA6400",
+          "textColor": "white",
+          "logo": "",
+          "main": true
+  
+        },
+        {
+          "name": "Liberal",
+          "nameShort": "LIB",
+          "leader": "Mark Carney", 
+          "headshot": "no_headshot_cropped.png", 
+          "color": "#E81E25",
+          "textColor": "white",
+          "logo": "",
+          "main": true
+  
+        },
+        {
+          "name": "Bloc Québécois",
+          "nameShort": "BQ",
+          "leader": "Yves-François Blanchet", 
+          "headshot": "no_headshot_cropped.png", 
+          "color": "rgb(66, 183, 191)",
+          "textColor": "white",
+          "logo": "",
+          "main": true
+        },
+        {
+          "name": "Green",
+          "nameShort": "GRN",
+          "leader": "Elizabeth May & Jonathan Pedneault", 
+          "headshot": "no_headshot_cropped.png", 
+          "color": "#2F772F",
+          "textColor": "white",
+          "logo": "",
+          "main": true
+        }, 
+        {
+          "name": "Independent", 
+          "nameShort": "IND", 
+          "color": "#8F8F8F", 
+          "textColor": "white", 
+          "partyLeader": "",
+          "imgName": "",
+          "logo": "",
+          "main": false
+      },
+      {
+            "name": "Other", 
+            "nameShort": "OTH", 
+            "color": "#C0C0C0", 
+            "textColor": "#231F20", 
+            "partyLeader": "",
+            "imgName": "",
+            "logo": "",
+            "main": false
+        }
+    ] 
+}
