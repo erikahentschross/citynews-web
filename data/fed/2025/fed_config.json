@@ -9,18 +9,18 @@
     "seats": 343,
     "majority": 172, 
     "timer": 30000,
-    "fullCoverageURL": "https://toronto.citynews.ca/topic/ontario-election/",
+    "fullCoverageURL": "https://citynews.ca/topic/canada-federal-election-2025/",
     "currentGeo": "fed_topo.json", 
     "pastGeo": "fed_topo.json",
     "parties": [
       {
-          "name": "",
-          "nameShort": "PC",
+          "name": "Progressive Conservative",
+          "nameShort": "CON",
           "leader": "Pierre Poilievre", 
-          "headshot": "no_headshot_cropped.png",
-          "color": "#003566",
+          "headshot": "CON Leader.png",
+          "color": "#152E52",
           "textColor": "white",
-          "logo": "", 
+          "logo": "PC.png", 
           "main": true
   
         }, 
@@ -28,10 +28,10 @@
           "name": "NDP",
           "nameShort": "NDP",
           "leader": "Jagmeet Singh", 
-          "headshot": "no_headshot_cropped.png", 
-          "color": "#FA6400",
+          "headshot": "NDP Leader.png", 
+          "color": "#F58220",
           "textColor": "white",
-          "logo": "",
+          "logo": "NDP.png",
           "main": true
   
         },
@@ -39,10 +39,10 @@
           "name": "Liberal",
           "nameShort": "LIB",
           "leader": "Mark Carney", 
-          "headshot": "no_headshot_cropped.png", 
-          "color": "#E81E25",
+          "headshot": "LIB Leader.png", 
+          "color": "#D71B1E",
           "textColor": "white",
-          "logo": "",
+          "logo": "LIB.png",
           "main": true
   
         },
@@ -50,21 +50,31 @@
           "name": "Bloc Québécois",
           "nameShort": "BQ",
           "leader": "Yves-François Blanchet", 
-          "headshot": "no_headshot_cropped.png", 
-          "color": "rgb(66, 183, 191)",
+          "headshot": "BQ Leader.png", 
+          "color": "#093A5A",
           "textColor": "white",
-          "logo": "",
+          "logo": "BQ.png",
           "main": true
         },
         {
           "name": "Green",
           "nameShort": "GRN",
           "leader": "Elizabeth May & Jonathan Pedneault", 
-          "headshot": "no_headshot_cropped.png", 
-          "color": "#2F772F",
+          "headshot": "GRN Leader.png", 
+          "color": "#1A402E",
           "textColor": "white",
-          "logo": "",
+          "logo": "GRN.png",
           "main": true
+        }, 
+        {
+          "name": "People's Party",
+          "nameShort": "PPC",
+          "leader": "Maxime Bernier", 
+          "headshot": "PPC Leader.png", 
+          "color": "#663399",
+          "textColor": "white",
+          "logo": "PPC.png",
+          "main": false
         }, 
         {
           "name": "Independent", 
@@ -73,18 +83,18 @@
           "textColor": "white", 
           "partyLeader": "",
           "imgName": "",
-          "logo": "",
+          "logo": "IND.png",
           "main": false
       },
       {
-            "name": "Other", 
-            "nameShort": "OTH", 
-            "color": "#C0C0C0", 
-            "textColor": "#231F20", 
-            "partyLeader": "",
-            "imgName": "",
-            "logo": "",
-            "main": false
+          "name": "Other", 
+          "nameShort": "OTH", 
+          "color": "#C0C0C0", 
+          "textColor": "#231F20", 
+          "partyLeader": "",
+          "imgName": "",
+          "logo": "",
+          "main": false
         }
     ] 
 }
