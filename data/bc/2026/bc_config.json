@@ -33,7 +33,7 @@
             "nameShort" : "CON",
             "color": "#184E99", 
             "leader": "Lorne Doerkson", 
-            "headshot": "",
+            "headshot": "DOERKSON_Lorne_CON.png",
             "textColor": "white", 
             "logo": "PC.png",
             "main": true
@@ -63,7 +63,7 @@
             "nameShort" : "GRN",
             "color": "#008542", 
             "leader": "Emily Lowan", 
-            "headshot": "",
+            "headshot": "LOWAN_Emily_GRN.png",
             "textColor": "white", 
             "logo": "GRN.png",
             "main": true
@@ -73,7 +73,7 @@
             "nameShort" : "CTR",
             "color": "#EE2D30",
             "leader": "Elenore Sturko",
-            "headshot": "",
+            "headshot": "STURKO_Elenore_CTR.png",
             "textColor": "white", 
             "logo": "CBC.png", 
             "main": false
@@ -83,7 +83,7 @@
             "nameShort" : "ONE",
             "color": "#0F122E", 
             "leader": "Dallas Brodie", 
-            "headshot": "",
+            "headshot": "BRODIE_Dallas_ONE.png",
             "textColor": "white", 
             "logo": "OBC.png",
             "main": false
